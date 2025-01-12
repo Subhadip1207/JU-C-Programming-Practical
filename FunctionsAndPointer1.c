@@ -51,7 +51,6 @@ printf("Enter the elements in the array...\n");
 for(i=0;i<10;i++){
     scanf("%d",&a[i]);
     c[i]=b[i]=a[i];
-
 }
 thirdMaximum(a);
 fifthMinimum(b);
